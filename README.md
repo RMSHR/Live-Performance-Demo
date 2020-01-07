@@ -1,7 +1,7 @@
 Live Performance Demo
 =======
 
-![gif](https://i.imgur.com/33yuBAE.gif) ![gif](https://i.imgur.com/CxWCWEv.gif)
+<img src="https://i.imgur.com/33yuBAE.gif" width="200px"> <img src="https://i.imgur.com/CxWCWEv.gif" width="200px">
 
 Live Performance Demo in Unity with midi control and fake player interactions
 
