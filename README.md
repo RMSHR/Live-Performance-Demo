@@ -34,7 +34,8 @@ Technical details
 -------------------
 This package has been built with Unity 2019.2.17f1
 
-You'll need this extra package :
+You'll need theses extra package :
+* Post Processing Stack package
 * [Midijack](https://github.com/keijiro/MidiJack), by Keijiro
 
 Shaders has been scripted with [Amplify Shader Editor](https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570)
